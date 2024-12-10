@@ -1,0 +1,41 @@
+html{ 
+    background-color: blue;
+color: blueviolet;
+
+}
+body{
+    background-color: orangered;
+    color: aqua;
+}
+
+#outputcontainer {
+
+
+    background-color: red;
+
+    color:green
+}
+
+.hackerstyle {
+    background-color:forestgreen;
+    color:red
+}
+
+input[type="password"] {background-color: red;
+
+
+}
+input.form-data{background-color: green;
+
+
+}
+
+[title="abcd"].tooltip{
+    background-color: green;
+}
+
+.navigation > li {
+    color:yellow;
+
+
+}
